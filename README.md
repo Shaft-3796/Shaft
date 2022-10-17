@@ -6,7 +6,7 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 ### Backtest +
 
-<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/BacktestPlus.png">
+<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/BacktestPlus.png">
 
 #### Powerful and simple crypto trading backtest engine
 
@@ -18,18 +18,18 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 ### OHLCV+
 
-<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/Ezxt.png">
+<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/OHLCV+.png">
 
 #### Highspeed crypto OHLCV data downloader/loader
 
-#### [OHLCV+](https://github.com/Shaft-3796/EZXT) allow you to download/load OHLCV data from a lot of crypto exchanges using CCXT
+#### [OHLCV+](https://github.com/Shaft-3796/OHLCV-Plus) allow you to download/load OHLCV data from a lot of crypto exchanges using CCXT
 #### 1'000'000 candles in 20s on FTX
 
 ##### This library is currently in developpement.
 
 ### Nestor
 
-<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft-Crypto-Suit/blob/main/src/Nestor.png">
+<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/Nestor.png">
 
 #### [Nestor](https://github.com/Shaft-3796/Nestor/blob/main/README.md) is a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
