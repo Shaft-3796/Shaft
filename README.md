@@ -4,8 +4,6 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 ## Projects 📋
 
-# 
-
 ### OHLCV+
 
 <img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/OHLCV+.png">
@@ -15,7 +13,7 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 #### [OHLCV+](https://github.com/Shaft-3796/OHLCV-Plus) allow you to download/load OHLCV data from a lot of crypto exchanges using CCXT
 #### 1'000'000 candles in 20s on FTX
 
-##### This library was released !.
+##### This library was released !
 
 #
 
