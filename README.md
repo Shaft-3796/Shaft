@@ -11,7 +11,7 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 #### Highspeed crypto OHLCV data downloader/loader
 
 #### [OHLCV+](https://github.com/Shaft-3796/OHLCV-Plus) allow you to download/load OHLCV data from a lot of crypto exchanges using CCXT
-#### 1'000'000 candles in 20s on FTX
+#### 3'000'000 candles in 20s on FTX
 
 ##### This library was released !
 
