@@ -4,16 +4,6 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 ## Projects 📋
 
-### Backtest +
-
-<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/BacktestPlus.png">
-
-#### Powerful and simple crypto trading backtest engine
-
-#### Code your strategy, call [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), use graphs & data to improve your trading. Code less, backtest more !
-
-##### This library is currently in developpement.
-
 # 
 
 ### OHLCV+
@@ -25,7 +15,21 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 #### [OHLCV+](https://github.com/Shaft-3796/OHLCV-Plus) allow you to download/load OHLCV data from a lot of crypto exchanges using CCXT
 #### 1'000'000 candles in 20s on FTX
 
+##### This library was released !.
+
+#
+
+### Backtest +
+
+<img heigh=auto width=10% src="https://github.com/Shaft-3796/Shaft/blob/main/BacktestPlus.png">
+
+#### Powerful and simple crypto trading backtest engine
+
+#### Code your strategy, call [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), use graphs & data to improve your trading. Code less, backtest more !
+
 ##### This library is currently in developpement.
+
+#
 
 ### Nestor
 
