@@ -25,7 +25,7 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 #### Code your strategy, call [Backtest+](https://github.com/Shaft-3796/Backtest-Plus), use graphs & data to improve your trading. Code less, backtest more !
 
-##### This library is currently in developpement.
+##### [Projet Paused]
 
 #
 
@@ -35,7 +35,7 @@ I'm a french student playing with defi, cryptography, cryptocurrency and cyberse
 
 #### [Nestor](https://github.com/Shaft-3796/Nestor/blob/main/README.md) is a framework to build your dream trading bot. Code your strategy, run it on multiple markets simultaneously using multithreading, controll nestor using a powerfull discord panel
 
-##### This library is currently in developpement.
+##### [Project Paused]
 
 ## Skill Set :muscle:
 
